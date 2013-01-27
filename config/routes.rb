@@ -1,5 +1,5 @@
 Sabakan::Application.routes.draw do
-  get "root/index"
+  resources :hosts
 
   root :to => 'root#index'
 end

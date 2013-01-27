@@ -1,0 +1,11 @@
+ja:
+  activerecord:
+    models:
+      host: Host
+
+    attributes:
+      host:
+        active: アクティブ
+        description: 説明
+        ip_address: IPアドレス
+        name: ホスト名

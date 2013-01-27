@@ -4,3 +4,4 @@
 /tmp
 /vendor/bundle
 .DS_Store
+*.swp
